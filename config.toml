@@ -7,7 +7,7 @@ theme = "hugo-coder"
 author = "Mei Wu"
 description = "Mei Wu's personal website"
 keywords = "bioinformatician,developer,personal,blog"
-info = ["Bioinformatician"]
+info = ["Hello!", "I'm Mei Wu, your friendly bioinformatician"]
 avatarURL = "images/profile_2021.jpeg"
 colorScheme = "auto"
 
