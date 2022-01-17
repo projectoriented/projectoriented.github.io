@@ -1,24 +1,44 @@
 baseURL = 'https://projectoriented.github.io/'
-languageCode = 'en-us'
-title = 'meiwu'
+title = 'Mei Wu'
 theme = "hugo-coder"
+languageCode = 'en-us'
+defaultcontentlanguage = "en"
 
 [params]
-author = "Mei Wu"
-description = "Mei Wu's personal website"
-keywords = "bioinformatician,developer,personal,blog"
-info = ["Your friendly bioinformatician"]
-avatarURL = "images/profile_2021.jpeg"
-colorScheme = "auto"
+	author = "Mei Wu"
+	description = "projectoriented personal website"
+	keywords = "bioinformatician,developer,personal,blog"
+	info = ["Your friendly bioinformatician"]
+	avatarURL = "images/profile_2021.jpeg"
+	colorScheme = "auto"
+
+# Social links
+[[params.social]]
+	name = "Github"
+	icon = "fa fa-2x fa-github"
+	weight = 1
+	url = "https://github.com/projectoriented/"
 
 [[params.social]]
-name = "Github"
-icon = "fa fa-2x fa-github"
-weight = 1
-url = "https://github.com/projectoriented/"
+	name = "LinkedIn"
+	icon = "fa fa-2x fa-linkedin"
+	weight = 2
+	url = "https://www.linkedin.com/in/projectoriented/"
 
-[[params.social]]
-name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/projectoriented/"
+# Menu links
+[[menu.main]]
+  name = "Now"
+  weight = 1
+  url = "now/"
+[[menu.main]]
+  name = "Projects"
+  weight = 2
+  url  = "projects/"
+[[menu.main]]
+  name = "Notes"
+  weight = 3
+  url  = "Notes/"
+[[menu.main]]
+	name = "About"
+	weight = 4
+	url  = "about/"
