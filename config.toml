@@ -1,24 +1,39 @@
+enableemoji = true
 baseURL = 'https://projectoriented.github.io/'
 languageCode = 'en-us'
-title = 'meiwu'
-theme = "hugo-coder"
+title = 'A data explorer'
+copyright = 'Mei Wu'
+theme = "hugo-theme-cactus"
 
 [params]
-author = "Mei Wu"
-description = "Mei Wu's personal website"
-keywords = "bioinformatician,developer,personal,blog"
-info = ["Your friendly bioinformatician"]
-avatarURL = "images/profile_2021.jpeg"
-colorScheme = "auto"
+colortheme = "white"
+
+# Home page settings
+description = "👋 Welcome! I am Mei (pronounced as MAY) and this is a space where I continue to learn biology 🧬 and USA politics through data visualization. I will also blog about the pervasive thoughts that fill my day."
+mainSectionTitle = "📖 Writings"
+mainSection = "posts"
+postsOnHomePage = 5
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Writings"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
 
 [[params.social]]
-name = "Github"
-icon = "fa fa-2x fa-github"
-weight = 1
+name = "github"
 url = "https://github.com/projectoriented/"
 
 [[params.social]]
-name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
-weight = 4
+name = "linkedin"
 url = "https://www.linkedin.com/in/projectoriented/"
