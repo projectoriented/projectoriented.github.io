@@ -12,12 +12,12 @@ keywords:
     - republican
 ---
 
-## Of all the enacted bills in congress 113 - 117, which party is the original sponsor and in what category?
+## Which party is the original sponsor for enacted bills between congress 113 to 117?
 ![Enacted bills](/images/Figure_1.png)
 
 Data is fetched from the ProPublica API.
 
-At first glance, the curvature of the horizontal bars indicate that the Republican party had greater influence in enacting bills to their favor in Congress 114 and 115. It is largely due to the fact that they controlled both chambers of Congress. Therefore, we can see similar counts of enacted bills where there is overlap of interests between the two parties of those years.
+At first glance, the counts of enacted bills from the Republican party are greater for most categories than in the Democratic party. This is especially clear in the 114th and 115th Congress which is no surprise at all because Republicans controlled both chambers of Congress in those years. Separately, we can see when both parties have overlapping interests, e.g. 'Armed Forces and National Security' or 'Government Operations and Politics', there is a push for bills to reach their mature age. It should be a good thing when there is agreement between the parties but in the example categories I mentioned, it might be concerning. I would like to see more activity in 'Transportation and Public Works' and 'Environmental Protection' and 'Housing and Community Development', and others pertaining to improving the livelihood, longevity, and convenience of residents in the US.
 
 | Congress | Date | Senate Majority | Senate President | House Majority | House Speaker |
 | -- | -- | -- | -- | -- | -- |
