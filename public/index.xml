@@ -15,7 +15,7 @@
       
       <guid>https://projectoriented.github.io/posts/partisan-clustering-of-bills/</guid>
       <description>Which party is the original sponsor for enacted bills between congress 113 to 117? Data is fetched from the ProPublica API.
-At first glance, the counts of enacted bills from the Republican party are greater for most categories than in the Democratic party. This is especially clear in the 114th and 115th Congress which is no surprise at all because Republicans controlled both chambers of Congress in those years. Separately, we can see when both parties have overlapping interests, e.</description>
+At first glance, the counts of enacted bills from the Republican party are greater for most categories than for the Democratic party. This is especially clear in the 114th and 115th Congress which is no surprise at all because Republicans controlled both chambers of Congress in those years. Separately, we can see when both parties have overlapping interests, e.</description>
     </item>
     
     <item>
