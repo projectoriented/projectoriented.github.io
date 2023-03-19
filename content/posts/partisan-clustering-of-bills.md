@@ -42,7 +42,6 @@ At first glance, the counts of enacted bills from the Republican party are great
 ![Word Cloud #6](/images/wordcloud-Transportation_and_Public_Works.png)
 
 
-
 Notes:
 1. Use the max value of co-sponsors for a bill as the sole delegate vs. using the sole sponsor. Could be interesting to see which major party supports the bill vs. the person who drafted it.
 
